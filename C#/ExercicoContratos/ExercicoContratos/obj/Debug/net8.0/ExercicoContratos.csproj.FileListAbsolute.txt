@@ -1,0 +1,14 @@
+C:\Users\jbray\Desktop\DEV\TESTE1\ExercicoContratos\ExercicoContratos\bin\Debug\net8.0\ExercicoContratos.exe
+C:\Users\jbray\Desktop\DEV\TESTE1\ExercicoContratos\ExercicoContratos\bin\Debug\net8.0\ExercicoContratos.deps.json
+C:\Users\jbray\Desktop\DEV\TESTE1\ExercicoContratos\ExercicoContratos\bin\Debug\net8.0\ExercicoContratos.runtimeconfig.json
+C:\Users\jbray\Desktop\DEV\TESTE1\ExercicoContratos\ExercicoContratos\bin\Debug\net8.0\ExercicoContratos.dll
+C:\Users\jbray\Desktop\DEV\TESTE1\ExercicoContratos\ExercicoContratos\bin\Debug\net8.0\ExercicoContratos.pdb
+C:\Users\jbray\Desktop\DEV\TESTE1\ExercicoContratos\ExercicoContratos\obj\Debug\net8.0\ExercicoContratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbray\Desktop\DEV\TESTE1\ExercicoContratos\ExercicoContratos\obj\Debug\net8.0\ExercicoContratos.AssemblyInfoInputs.cache
+C:\Users\jbray\Desktop\DEV\TESTE1\ExercicoContratos\ExercicoContratos\obj\Debug\net8.0\ExercicoContratos.AssemblyInfo.cs
+C:\Users\jbray\Desktop\DEV\TESTE1\ExercicoContratos\ExercicoContratos\obj\Debug\net8.0\ExercicoContratos.csproj.CoreCompileInputs.cache
+C:\Users\jbray\Desktop\DEV\TESTE1\ExercicoContratos\ExercicoContratos\obj\Debug\net8.0\ExercicoContratos.dll
+C:\Users\jbray\Desktop\DEV\TESTE1\ExercicoContratos\ExercicoContratos\obj\Debug\net8.0\refint\ExercicoContratos.dll
+C:\Users\jbray\Desktop\DEV\TESTE1\ExercicoContratos\ExercicoContratos\obj\Debug\net8.0\ExercicoContratos.pdb
+C:\Users\jbray\Desktop\DEV\TESTE1\ExercicoContratos\ExercicoContratos\obj\Debug\net8.0\ExercicoContratos.genruntimeconfig.cache
+C:\Users\jbray\Desktop\DEV\TESTE1\ExercicoContratos\ExercicoContratos\obj\Debug\net8.0\ref\ExercicoContratos.dll
