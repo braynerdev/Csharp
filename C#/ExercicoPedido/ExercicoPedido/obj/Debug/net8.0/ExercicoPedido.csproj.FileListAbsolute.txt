@@ -1,0 +1,15 @@
+C:\Users\jbray\DEV\C#\ExercicoPedido\ExercicoPedido\bin\Debug\net8.0\ExercicoPedido.exe
+C:\Users\jbray\DEV\C#\ExercicoPedido\ExercicoPedido\bin\Debug\net8.0\ExercicoPedido.deps.json
+C:\Users\jbray\DEV\C#\ExercicoPedido\ExercicoPedido\bin\Debug\net8.0\ExercicoPedido.runtimeconfig.json
+C:\Users\jbray\DEV\C#\ExercicoPedido\ExercicoPedido\bin\Debug\net8.0\ExercicoPedido.dll
+C:\Users\jbray\DEV\C#\ExercicoPedido\ExercicoPedido\bin\Debug\net8.0\ExercicoPedido.pdb
+C:\Users\jbray\DEV\C#\ExercicoPedido\ExercicoPedido\obj\Debug\net8.0\ExercicoPedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbray\DEV\C#\ExercicoPedido\ExercicoPedido\obj\Debug\net8.0\ExercicoPedido.AssemblyInfoInputs.cache
+C:\Users\jbray\DEV\C#\ExercicoPedido\ExercicoPedido\obj\Debug\net8.0\ExercicoPedido.AssemblyInfo.cs
+C:\Users\jbray\DEV\C#\ExercicoPedido\ExercicoPedido\obj\Debug\net8.0\ExercicoPedido.csproj.CoreCompileInputs.cache
+C:\Users\jbray\DEV\C#\ExercicoPedido\ExercicoPedido\obj\Debug\net8.0\ExercicoPedido.sourcelink.json
+C:\Users\jbray\DEV\C#\ExercicoPedido\ExercicoPedido\obj\Debug\net8.0\ExercicoPedido.dll
+C:\Users\jbray\DEV\C#\ExercicoPedido\ExercicoPedido\obj\Debug\net8.0\refint\ExercicoPedido.dll
+C:\Users\jbray\DEV\C#\ExercicoPedido\ExercicoPedido\obj\Debug\net8.0\ExercicoPedido.pdb
+C:\Users\jbray\DEV\C#\ExercicoPedido\ExercicoPedido\obj\Debug\net8.0\ExercicoPedido.genruntimeconfig.cache
+C:\Users\jbray\DEV\C#\ExercicoPedido\ExercicoPedido\obj\Debug\net8.0\ref\ExercicoPedido.dll
