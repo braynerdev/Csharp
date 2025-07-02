@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jbray\\Desktop\\DEV\\TESTE1\\ExercicoContratos\\ExercicoContratos\\ExercicoContratos.csproj",
+      "projectUniqueName": "C:\\Users\\jbray\\DEV\\C#\\ExercicoContratos\\ExercicoContratos\\ExercicoContratos.csproj",
       "projectName": "ExercicoContratos",
-      "projectPath": "C:\\Users\\jbray\\Desktop\\DEV\\TESTE1\\ExercicoContratos\\ExercicoContratos\\ExercicoContratos.csproj",
+      "projectPath": "C:\\Users\\jbray\\DEV\\C#\\ExercicoContratos\\ExercicoContratos\\ExercicoContratos.csproj",
       "packagesPath": "C:\\Users\\jbray\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jbray\\Desktop\\DEV\\TESTE1\\ExercicoContratos\\ExercicoContratos\\obj\\",
+      "outputPath": "C:\\Users\\jbray\\DEV\\C#\\ExercicoContratos\\ExercicoContratos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
