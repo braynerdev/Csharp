@@ -1,26 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jo\u00E3o Brayner\\DEV\\Teste\\",
+  "WorkspaceRootPath": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPosts\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89A3EA12-FCA2-4B4E-BFAD-91C1B61E78C9}|Teste\\Teste.csproj|c:\\users\\jo\u00E3o brayner\\dev\\teste\\teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{89A3EA12-FCA2-4B4E-BFAD-91C1B61E78C9}|Teste\\Teste.csproj|c:\\users\\jbray\\dev\\c#\\exercicioposts\\teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89A3EA12-FCA2-4B4E-BFAD-91C1B61E78C9}|Teste\\Teste.csproj|solutionrelative:teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89A3EA12-FCA2-4B4E-BFAD-91C1B61E78C9}|Teste\\Teste.csproj|c:\\users\\jo\u00E3o brayner\\dev\\teste\\teste\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{89A3EA12-FCA2-4B4E-BFAD-91C1B61E78C9}|Teste\\Teste.csproj|c:\\users\\jbray\\dev\\c#\\exercicioposts\\teste\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89A3EA12-FCA2-4B4E-BFAD-91C1B61E78C9}|Teste\\Teste.csproj|solutionrelative:teste\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89A3EA12-FCA2-4B4E-BFAD-91C1B61E78C9}|Teste\\Teste.csproj|c:\\users\\jo\u00E3o brayner\\dev\\teste\\teste\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{89A3EA12-FCA2-4B4E-BFAD-91C1B61E78C9}|Teste\\Teste.csproj|c:\\users\\jbray\\dev\\c#\\exercicioposts\\teste\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89A3EA12-FCA2-4B4E-BFAD-91C1B61E78C9}|Teste\\Teste.csproj|solutionrelative:teste\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89A3EA12-FCA2-4B4E-BFAD-91C1B61E78C9}|Teste\\Teste.csproj|c:\\users\\jo\u00E3o brayner\\dev\\teste\\teste\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{89A3EA12-FCA2-4B4E-BFAD-91C1B61E78C9}|Teste\\Teste.csproj|c:\\users\\jbray\\dev\\c#\\exercicioposts\\teste\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89A3EA12-FCA2-4B4E-BFAD-91C1B61E78C9}|Teste\\Teste.csproj|solutionrelative:teste\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89A3EA12-FCA2-4B4E-BFAD-91C1B61E78C9}|Teste\\Teste.csproj|c:\\users\\jo\u00E3o brayner\\dev\\teste\\teste\\entities\\likes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{89A3EA12-FCA2-4B4E-BFAD-91C1B61E78C9}|Teste\\Teste.csproj|c:\\users\\jbray\\dev\\c#\\exercicioposts\\teste\\entities\\likes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89A3EA12-FCA2-4B4E-BFAD-91C1B61E78C9}|Teste\\Teste.csproj|solutionrelative:teste\\entities\\likes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jbray\\AppData\\Local\\SourceServer\\848320d3e617d26a83e89b9046b556d36234c7757e062578aeb265aced2c4f84\\C#\\ExercicioPosts\\Teste\\Entities\\Post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +33,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\AppData\\Local\\SourceServer\\848320d3e617d26a83e89b9046b556d36234c7757e062578aeb265aced2c4f84\\C#\\ExercicioPosts\\Teste\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\848320d3e617d26a83e89b9046b556d36234c7757e062578aeb265aced2c4f84\\C#\\ExercicioPosts\\Teste\\Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\jbray\\AppData\\Local\\SourceServer\\848320d3e617d26a83e89b9046b556d36234c7757e062578aeb265aced2c4f84\\C#\\ExercicioPosts\\Teste\\Entities\\Post.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\848320d3e617d26a83e89b9046b556d36234c7757e062578aeb265aced2c4f84\\C#\\ExercicioPosts\\Teste\\Entities\\Post.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:42:23.871Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Jo\u00E3o Brayner\\DEV\\Teste\\Teste\\Entities\\User.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPosts\\Teste\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Teste\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\Jo\u00E3o Brayner\\DEV\\Teste\\Teste\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPosts\\Teste\\Entities\\User.cs",
               "RelativeToolTip": "Teste\\Entities\\User.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T11:04:14.229Z",
               "EditorCaption": ""
@@ -49,11 +65,11 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Likes.cs",
-              "DocumentMoniker": "C:\\Users\\Jo\u00E3o Brayner\\DEV\\Teste\\Teste\\Entities\\Likes.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPosts\\Teste\\Entities\\Likes.cs",
               "RelativeDocumentMoniker": "Teste\\Entities\\Likes.cs",
-              "ToolTip": "C:\\Users\\Jo\u00E3o Brayner\\DEV\\Teste\\Teste\\Entities\\Likes.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPosts\\Teste\\Entities\\Likes.cs",
               "RelativeToolTip": "Teste\\Entities\\Likes.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAApwAgAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAApwBIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T11:03:33.792Z",
               "EditorCaption": ""
@@ -62,11 +78,11 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Users\\Jo\u00E3o Brayner\\DEV\\Teste\\Teste\\Entities\\Comment.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPosts\\Teste\\Entities\\Comment.cs",
               "RelativeDocumentMoniker": "Teste\\Entities\\Comment.cs",
-              "ToolTip": "C:\\Users\\Jo\u00E3o Brayner\\DEV\\Teste\\Teste\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPosts\\Teste\\Entities\\Comment.cs",
               "RelativeToolTip": "Teste\\Entities\\Comment.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAlwA8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T10:58:01.415Z",
               "EditorCaption": ""
@@ -75,11 +91,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Post.cs",
-              "DocumentMoniker": "C:\\Users\\Jo\u00E3o Brayner\\DEV\\Teste\\Teste\\Entities\\Post.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPosts\\Teste\\Entities\\Post.cs",
               "RelativeDocumentMoniker": "Teste\\Entities\\Post.cs",
-              "ToolTip": "C:\\Users\\Jo\u00E3o Brayner\\DEV\\Teste\\Teste\\Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPosts\\Teste\\Entities\\Post.cs",
               "RelativeToolTip": "Teste\\Entities\\Post.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAswCYAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwDYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T10:54:53.202Z",
               "EditorCaption": ""
@@ -88,11 +104,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jo\u00E3o Brayner\\DEV\\Teste\\Teste\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPosts\\Teste\\Program.cs",
               "RelativeDocumentMoniker": "Teste\\Program.cs",
-              "ToolTip": "C:\\Users\\Jo\u00E3o Brayner\\DEV\\Teste\\Teste\\Program.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPosts\\Teste\\Program.cs",
               "RelativeToolTip": "Teste\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T13:36:47.324Z",
               "EditorCaption": ""

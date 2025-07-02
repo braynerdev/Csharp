@@ -7,23 +7,23 @@ using System.Threading.Tasks;
 namespace Teste.Entities {
     internal class Post {
         public DateTime Moment {
-            get; set;
+            get; private set;
         }
         public string Title {
-            get; set;
+            get; private set;
         }
         public User User {
-            get; set;
+            get; private set;
         }
         public string Description {
-            get; set;
+            get; private set;
         }
-        public List<Comment> Comment{
-            get; set;
-        }
+        public List<Comment> Comments {
+            get; private set;
+        } = new List<Comment>();
         public List<Likes> Likes {
-            get; set;
-        }
+            get; private set;
+        } = new List<Likes>();
 
         public Post() {
         }
@@ -36,14 +36,32 @@ namespace Teste.Entities {
         }
 
         public override string ToString() {
-            return $"Moment: {Moment.ToString("dd/MM/yyyy HH:mm:ss")}\nTitle: {Title}\n{User}\nDescription: {Description}";
+            StringBuilder sb = new StringBuilder();
+            sb.Append(Title);
+            sb.Append(' ');
+            sb.AppendLine(Moment.ToString("dd/MM/yyyy HH:mm:ss"));
+            sb.AppendLine();
+            sb.AppendLine(User.UserName);
+            sb.AppendLine();
+            sb.AppendLine(Description);
+            sb.AppendLine();
+            sb.AppendLine($"likes- {Likes.Count}");
+            sb.AppendLine();
+
+            foreach (Comment c in Comments)
+            {   
+                sb.AppendLine(c.User.UserName);
+                sb.AppendLine(c.Text);
+                sb.AppendLine();
+            }
+            return sb.ToString();
         }
 
         public void AddComment(Comment comment) {
-            Comment.Add(comment);
+            Comments.Add(comment);
         }
         public void RemoveComment(Comment comment) {
-            Comment.Remove(comment);
+            Comments.Remove(comment);
         }
 
         public void AddLikes(Likes like) {

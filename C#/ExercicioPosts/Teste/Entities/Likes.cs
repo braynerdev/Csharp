@@ -16,7 +16,7 @@ namespace Teste.Entities {
         }
 
         public override string ToString() {
-            return $"User: {User}";
+            return $"Likes:{User.UserName}";
         }
     }
 }

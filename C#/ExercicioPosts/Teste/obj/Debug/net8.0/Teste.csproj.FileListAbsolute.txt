@@ -12,3 +12,18 @@ C:\Users\João Brayner\DEV\Teste\Teste\obj\Debug\net8.0\refint\Teste.dll
 C:\Users\João Brayner\DEV\Teste\Teste\obj\Debug\net8.0\Teste.pdb
 C:\Users\João Brayner\DEV\Teste\Teste\obj\Debug\net8.0\Teste.genruntimeconfig.cache
 C:\Users\João Brayner\DEV\Teste\Teste\obj\Debug\net8.0\ref\Teste.dll
+C:\Users\jbray\DEV\C#\ExercicioPosts\Teste\bin\Debug\net8.0\Teste.exe
+C:\Users\jbray\DEV\C#\ExercicioPosts\Teste\bin\Debug\net8.0\Teste.deps.json
+C:\Users\jbray\DEV\C#\ExercicioPosts\Teste\bin\Debug\net8.0\Teste.runtimeconfig.json
+C:\Users\jbray\DEV\C#\ExercicioPosts\Teste\bin\Debug\net8.0\Teste.dll
+C:\Users\jbray\DEV\C#\ExercicioPosts\Teste\bin\Debug\net8.0\Teste.pdb
+C:\Users\jbray\DEV\C#\ExercicioPosts\Teste\obj\Debug\net8.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbray\DEV\C#\ExercicioPosts\Teste\obj\Debug\net8.0\Teste.AssemblyInfoInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioPosts\Teste\obj\Debug\net8.0\Teste.AssemblyInfo.cs
+C:\Users\jbray\DEV\C#\ExercicioPosts\Teste\obj\Debug\net8.0\Teste.csproj.CoreCompileInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioPosts\Teste\obj\Debug\net8.0\Teste.sourcelink.json
+C:\Users\jbray\DEV\C#\ExercicioPosts\Teste\obj\Debug\net8.0\Teste.dll
+C:\Users\jbray\DEV\C#\ExercicioPosts\Teste\obj\Debug\net8.0\refint\Teste.dll
+C:\Users\jbray\DEV\C#\ExercicioPosts\Teste\obj\Debug\net8.0\Teste.pdb
+C:\Users\jbray\DEV\C#\ExercicioPosts\Teste\obj\Debug\net8.0\Teste.genruntimeconfig.cache
+C:\Users\jbray\DEV\C#\ExercicioPosts\Teste\obj\Debug\net8.0\ref\Teste.dll

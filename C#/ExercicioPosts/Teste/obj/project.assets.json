@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\João Brayner\\.nuget\\packages\\": {},
+    "C:\\Users\\jbray\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\João Brayner\\DEV\\Teste\\Teste\\Teste.csproj",
+      "projectUniqueName": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPosts\\Teste\\Teste.csproj",
       "projectName": "Teste",
-      "projectPath": "C:\\Users\\João Brayner\\DEV\\Teste\\Teste\\Teste.csproj",
-      "packagesPath": "C:\\Users\\João Brayner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\João Brayner\\DEV\\Teste\\Teste\\obj\\",
+      "projectPath": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPosts\\Teste\\Teste.csproj",
+      "packagesPath": "C:\\Users\\jbray\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPosts\\Teste\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\João Brayner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jbray\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
