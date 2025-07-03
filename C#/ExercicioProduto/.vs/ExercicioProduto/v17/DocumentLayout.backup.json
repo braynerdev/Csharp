@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jbray\\DEV\\C#\\ExercicioProduto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7713AF83-4431-48F0-89A8-6E2554F6A016}|ExercicioProduto\\ExercicioProduto.csproj|c:\\users\\jbray\\dev\\c#\\exercicioproduto\\exercicioproduto\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7713AF83-4431-48F0-89A8-6E2554F6A016}|ExercicioProduto\\ExercicioProduto.csproj|solutionrelative:exercicioproduto\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7713AF83-4431-48F0-89A8-6E2554F6A016}|ExercicioProduto\\ExercicioProduto.csproj|c:\\users\\jbray\\dev\\c#\\exercicioproduto\\exercicioproduto\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7713AF83-4431-48F0-89A8-6E2554F6A016}|ExercicioProduto\\ExercicioProduto.csproj|solutionrelative:exercicioproduto\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7713AF83-4431-48F0-89A8-6E2554F6A016}|ExercicioProduto\\ExercicioProduto.csproj|c:\\users\\jbray\\dev\\c#\\exercicioproduto\\exercicioproduto\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7713AF83-4431-48F0-89A8-6E2554F6A016}|ExercicioProduto\\ExercicioProduto.csproj|solutionrelative:exercicioproduto\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7713AF83-4431-48F0-89A8-6E2554F6A016}|ExercicioProduto\\ExercicioProduto.csproj|c:\\users\\jbray\\dev\\c#\\exercicioproduto\\exercicioproduto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7713AF83-4431-48F0-89A8-6E2554F6A016}|ExercicioProduto\\ExercicioProduto.csproj|solutionrelative:exercicioproduto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioProduto\\ExercicioProduto\\Entities\\UsedProduct.cs",
+              "RelativeDocumentMoniker": "ExercicioProduto\\Entities\\UsedProduct.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioProduto\\ExercicioProduto\\Entities\\UsedProduct.cs",
+              "RelativeToolTip": "ExercicioProduto\\Entities\\UsedProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:47:08.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImportedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioProduto\\ExercicioProduto\\Entities\\ImportedProduct.cs",
+              "RelativeDocumentMoniker": "ExercicioProduto\\Entities\\ImportedProduct.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioProduto\\ExercicioProduto\\Entities\\ImportedProduct.cs",
+              "RelativeToolTip": "ExercicioProduto\\Entities\\ImportedProduct.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:46:56.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioProduto\\ExercicioProduto\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ExercicioProduto\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioProduto\\ExercicioProduto\\Entities\\Product.cs",
+              "RelativeToolTip": "ExercicioProduto\\Entities\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:46:22.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioProduto\\ExercicioProduto\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioProduto\\Program.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioProduto\\ExercicioProduto\\Program.cs",
+              "RelativeToolTip": "ExercicioProduto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:44:41.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

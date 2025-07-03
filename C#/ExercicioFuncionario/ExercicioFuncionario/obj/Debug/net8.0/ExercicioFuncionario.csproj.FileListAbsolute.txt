@@ -1,0 +1,15 @@
+C:\Users\jbray\DEV\C#\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net8.0\ExercicioFuncionario.exe
+C:\Users\jbray\DEV\C#\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net8.0\ExercicioFuncionario.deps.json
+C:\Users\jbray\DEV\C#\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net8.0\ExercicioFuncionario.runtimeconfig.json
+C:\Users\jbray\DEV\C#\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net8.0\ExercicioFuncionario.dll
+C:\Users\jbray\DEV\C#\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net8.0\ExercicioFuncionario.pdb
+C:\Users\jbray\DEV\C#\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\ExercicioFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbray\DEV\C#\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\ExercicioFuncionario.AssemblyInfoInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\ExercicioFuncionario.AssemblyInfo.cs
+C:\Users\jbray\DEV\C#\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\ExercicioFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\ExercicioFuncionario.sourcelink.json
+C:\Users\jbray\DEV\C#\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\ExercicioFuncionario.dll
+C:\Users\jbray\DEV\C#\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\refint\ExercicioFuncionario.dll
+C:\Users\jbray\DEV\C#\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\ExercicioFuncionario.pdb
+C:\Users\jbray\DEV\C#\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\ExercicioFuncionario.genruntimeconfig.cache
+C:\Users\jbray\DEV\C#\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net8.0\ref\ExercicioFuncionario.dll
