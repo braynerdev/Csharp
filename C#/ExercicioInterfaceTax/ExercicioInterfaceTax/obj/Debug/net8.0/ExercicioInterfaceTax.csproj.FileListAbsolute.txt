@@ -1,0 +1,15 @@
+C:\Users\jbray\DEV\C#\ExercicioInterfaceTax\ExercicioInterfaceTax\obj\Debug\net8.0\ExercicioInterfaceTax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbray\DEV\C#\ExercicioInterfaceTax\ExercicioInterfaceTax\obj\Debug\net8.0\ExercicioInterfaceTax.AssemblyInfoInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioInterfaceTax\ExercicioInterfaceTax\obj\Debug\net8.0\ExercicioInterfaceTax.AssemblyInfo.cs
+C:\Users\jbray\DEV\C#\ExercicioInterfaceTax\ExercicioInterfaceTax\obj\Debug\net8.0\ExercicioInterfaceTax.csproj.CoreCompileInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioInterfaceTax\ExercicioInterfaceTax\obj\Debug\net8.0\ExercicioInterfaceTax.sourcelink.json
+C:\Users\jbray\DEV\C#\ExercicioInterfaceTax\ExercicioInterfaceTax\bin\Debug\net8.0\ExercicioInterfaceTax.exe
+C:\Users\jbray\DEV\C#\ExercicioInterfaceTax\ExercicioInterfaceTax\bin\Debug\net8.0\ExercicioInterfaceTax.deps.json
+C:\Users\jbray\DEV\C#\ExercicioInterfaceTax\ExercicioInterfaceTax\bin\Debug\net8.0\ExercicioInterfaceTax.runtimeconfig.json
+C:\Users\jbray\DEV\C#\ExercicioInterfaceTax\ExercicioInterfaceTax\bin\Debug\net8.0\ExercicioInterfaceTax.dll
+C:\Users\jbray\DEV\C#\ExercicioInterfaceTax\ExercicioInterfaceTax\bin\Debug\net8.0\ExercicioInterfaceTax.pdb
+C:\Users\jbray\DEV\C#\ExercicioInterfaceTax\ExercicioInterfaceTax\obj\Debug\net8.0\ExercicioInterfaceTax.dll
+C:\Users\jbray\DEV\C#\ExercicioInterfaceTax\ExercicioInterfaceTax\obj\Debug\net8.0\refint\ExercicioInterfaceTax.dll
+C:\Users\jbray\DEV\C#\ExercicioInterfaceTax\ExercicioInterfaceTax\obj\Debug\net8.0\ExercicioInterfaceTax.pdb
+C:\Users\jbray\DEV\C#\ExercicioInterfaceTax\ExercicioInterfaceTax\obj\Debug\net8.0\ExercicioInterfaceTax.genruntimeconfig.cache
+C:\Users\jbray\DEV\C#\ExercicioInterfaceTax\ExercicioInterfaceTax\obj\Debug\net8.0\ref\ExercicioInterfaceTax.dll

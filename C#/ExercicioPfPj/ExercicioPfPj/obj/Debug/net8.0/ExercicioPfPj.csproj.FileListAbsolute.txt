@@ -1,0 +1,15 @@
+C:\Users\jbray\DEV\C#\ExercicioPfPj\ExercicioPfPj\bin\Debug\net8.0\ExercicioPfPj.exe
+C:\Users\jbray\DEV\C#\ExercicioPfPj\ExercicioPfPj\bin\Debug\net8.0\ExercicioPfPj.deps.json
+C:\Users\jbray\DEV\C#\ExercicioPfPj\ExercicioPfPj\bin\Debug\net8.0\ExercicioPfPj.runtimeconfig.json
+C:\Users\jbray\DEV\C#\ExercicioPfPj\ExercicioPfPj\bin\Debug\net8.0\ExercicioPfPj.dll
+C:\Users\jbray\DEV\C#\ExercicioPfPj\ExercicioPfPj\bin\Debug\net8.0\ExercicioPfPj.pdb
+C:\Users\jbray\DEV\C#\ExercicioPfPj\ExercicioPfPj\obj\Debug\net8.0\ExercicioPfPj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbray\DEV\C#\ExercicioPfPj\ExercicioPfPj\obj\Debug\net8.0\ExercicioPfPj.AssemblyInfoInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioPfPj\ExercicioPfPj\obj\Debug\net8.0\ExercicioPfPj.AssemblyInfo.cs
+C:\Users\jbray\DEV\C#\ExercicioPfPj\ExercicioPfPj\obj\Debug\net8.0\ExercicioPfPj.csproj.CoreCompileInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioPfPj\ExercicioPfPj\obj\Debug\net8.0\ExercicioPfPj.sourcelink.json
+C:\Users\jbray\DEV\C#\ExercicioPfPj\ExercicioPfPj\obj\Debug\net8.0\ExercicioPfPj.dll
+C:\Users\jbray\DEV\C#\ExercicioPfPj\ExercicioPfPj\obj\Debug\net8.0\refint\ExercicioPfPj.dll
+C:\Users\jbray\DEV\C#\ExercicioPfPj\ExercicioPfPj\obj\Debug\net8.0\ExercicioPfPj.pdb
+C:\Users\jbray\DEV\C#\ExercicioPfPj\ExercicioPfPj\obj\Debug\net8.0\ExercicioPfPj.genruntimeconfig.cache
+C:\Users\jbray\DEV\C#\ExercicioPfPj\ExercicioPfPj\obj\Debug\net8.0\ref\ExercicioPfPj.dll

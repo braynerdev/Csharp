@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPfPj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16982D84-B345-42AD-A975-75355AFF2C35}|ExercicioPfPj\\ExercicioPfPj.csproj|c:\\users\\jbray\\dev\\c#\\exerciciopfpj\\exerciciopfpj\\entities\\contribuintes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16982D84-B345-42AD-A975-75355AFF2C35}|ExercicioPfPj\\ExercicioPfPj.csproj|solutionrelative:exerciciopfpj\\entities\\contribuintes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16982D84-B345-42AD-A975-75355AFF2C35}|ExercicioPfPj\\ExercicioPfPj.csproj|c:\\users\\jbray\\dev\\c#\\exerciciopfpj\\exerciciopfpj\\entities\\contribuintespj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16982D84-B345-42AD-A975-75355AFF2C35}|ExercicioPfPj\\ExercicioPfPj.csproj|solutionrelative:exerciciopfpj\\entities\\contribuintespj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16982D84-B345-42AD-A975-75355AFF2C35}|ExercicioPfPj\\ExercicioPfPj.csproj|c:\\users\\jbray\\dev\\c#\\exerciciopfpj\\exerciciopfpj\\entities\\contribuintespf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16982D84-B345-42AD-A975-75355AFF2C35}|ExercicioPfPj\\ExercicioPfPj.csproj|solutionrelative:exerciciopfpj\\entities\\contribuintespf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16982D84-B345-42AD-A975-75355AFF2C35}|ExercicioPfPj\\ExercicioPfPj.csproj|c:\\users\\jbray\\dev\\c#\\exerciciopfpj\\exerciciopfpj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16982D84-B345-42AD-A975-75355AFF2C35}|ExercicioPfPj\\ExercicioPfPj.csproj|solutionrelative:exerciciopfpj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContribuintesPF.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPfPj\\ExercicioPfPj\\Entities\\ContribuintesPF.cs",
+              "RelativeDocumentMoniker": "ExercicioPfPj\\Entities\\ContribuintesPF.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPfPj\\ExercicioPfPj\\Entities\\ContribuintesPF.cs",
+              "RelativeToolTip": "ExercicioPfPj\\Entities\\ContribuintesPF.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T23:32:25.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContribuintesPJ.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPfPj\\ExercicioPfPj\\Entities\\ContribuintesPJ.cs",
+              "RelativeDocumentMoniker": "ExercicioPfPj\\Entities\\ContribuintesPJ.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPfPj\\ExercicioPfPj\\Entities\\ContribuintesPJ.cs",
+              "RelativeToolTip": "ExercicioPfPj\\Entities\\ContribuintesPJ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T23:32:05.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contribuintes.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPfPj\\ExercicioPfPj\\Entities\\Contribuintes.cs",
+              "RelativeDocumentMoniker": "ExercicioPfPj\\Entities\\Contribuintes.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPfPj\\ExercicioPfPj\\Entities\\Contribuintes.cs",
+              "RelativeToolTip": "ExercicioPfPj\\Entities\\Contribuintes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T23:31:37.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPfPj\\ExercicioPfPj\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioPfPj\\Program.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPfPj\\ExercicioPfPj\\Program.cs",
+              "RelativeToolTip": "ExercicioPfPj\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T23:29:46.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

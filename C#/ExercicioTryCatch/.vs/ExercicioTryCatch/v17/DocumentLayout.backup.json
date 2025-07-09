@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jbray\\DEV\\C#\\ExercicioTryCatch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5C516D-C00C-49F7-9EEB-F1A75C286199}|ExercicioTryCatch\\ExercicioTryCatch.csproj|c:\\users\\jbray\\dev\\c#\\exerciciotrycatch\\exerciciotrycatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5C516D-C00C-49F7-9EEB-F1A75C286199}|ExercicioTryCatch\\ExercicioTryCatch.csproj|solutionrelative:exerciciotrycatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5C516D-C00C-49F7-9EEB-F1A75C286199}|ExercicioTryCatch\\ExercicioTryCatch.csproj|c:\\users\\jbray\\dev\\c#\\exerciciotrycatch\\exerciciotrycatch\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5C516D-C00C-49F7-9EEB-F1A75C286199}|ExercicioTryCatch\\ExercicioTryCatch.csproj|solutionrelative:exerciciotrycatch\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5C516D-C00C-49F7-9EEB-F1A75C286199}|ExercicioTryCatch\\ExercicioTryCatch.csproj|c:\\users\\jbray\\dev\\c#\\exerciciotrycatch\\exerciciotrycatch\\entities\\exception\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5C516D-C00C-49F7-9EEB-F1A75C286199}|ExercicioTryCatch\\ExercicioTryCatch.csproj|solutionrelative:exerciciotrycatch\\entities\\exception\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioTryCatch\\ExercicioTryCatch\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "ExercicioTryCatch\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioTryCatch\\ExercicioTryCatch\\Entities\\Account.cs",
+              "RelativeToolTip": "ExercicioTryCatch\\Entities\\Account.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wCEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:36:37.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioTryCatch\\ExercicioTryCatch\\Entities\\Exception\\DomainException.cs",
+              "RelativeDocumentMoniker": "ExercicioTryCatch\\Entities\\Exception\\DomainException.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioTryCatch\\ExercicioTryCatch\\Entities\\Exception\\DomainException.cs",
+              "RelativeToolTip": "ExercicioTryCatch\\Entities\\Exception\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:36:22.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioTryCatch\\ExercicioTryCatch\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioTryCatch\\Program.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioTryCatch\\ExercicioTryCatch\\Program.cs",
+              "RelativeToolTip": "ExercicioTryCatch\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:33:46.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

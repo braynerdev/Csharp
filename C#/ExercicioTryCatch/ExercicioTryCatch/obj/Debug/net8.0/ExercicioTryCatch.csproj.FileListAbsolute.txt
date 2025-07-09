@@ -1,0 +1,15 @@
+C:\Users\jbray\DEV\C#\ExercicioTryCatch\ExercicioTryCatch\bin\Debug\net8.0\ExercicioTryCatch.exe
+C:\Users\jbray\DEV\C#\ExercicioTryCatch\ExercicioTryCatch\bin\Debug\net8.0\ExercicioTryCatch.deps.json
+C:\Users\jbray\DEV\C#\ExercicioTryCatch\ExercicioTryCatch\bin\Debug\net8.0\ExercicioTryCatch.runtimeconfig.json
+C:\Users\jbray\DEV\C#\ExercicioTryCatch\ExercicioTryCatch\bin\Debug\net8.0\ExercicioTryCatch.dll
+C:\Users\jbray\DEV\C#\ExercicioTryCatch\ExercicioTryCatch\bin\Debug\net8.0\ExercicioTryCatch.pdb
+C:\Users\jbray\DEV\C#\ExercicioTryCatch\ExercicioTryCatch\obj\Debug\net8.0\ExercicioTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbray\DEV\C#\ExercicioTryCatch\ExercicioTryCatch\obj\Debug\net8.0\ExercicioTryCatch.AssemblyInfoInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioTryCatch\ExercicioTryCatch\obj\Debug\net8.0\ExercicioTryCatch.AssemblyInfo.cs
+C:\Users\jbray\DEV\C#\ExercicioTryCatch\ExercicioTryCatch\obj\Debug\net8.0\ExercicioTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioTryCatch\ExercicioTryCatch\obj\Debug\net8.0\ExercicioTryCatch.sourcelink.json
+C:\Users\jbray\DEV\C#\ExercicioTryCatch\ExercicioTryCatch\obj\Debug\net8.0\ExercicioTryCatch.dll
+C:\Users\jbray\DEV\C#\ExercicioTryCatch\ExercicioTryCatch\obj\Debug\net8.0\refint\ExercicioTryCatch.dll
+C:\Users\jbray\DEV\C#\ExercicioTryCatch\ExercicioTryCatch\obj\Debug\net8.0\ExercicioTryCatch.pdb
+C:\Users\jbray\DEV\C#\ExercicioTryCatch\ExercicioTryCatch\obj\Debug\net8.0\ExercicioTryCatch.genruntimeconfig.cache
+C:\Users\jbray\DEV\C#\ExercicioTryCatch\ExercicioTryCatch\obj\Debug\net8.0\ref\ExercicioTryCatch.dll

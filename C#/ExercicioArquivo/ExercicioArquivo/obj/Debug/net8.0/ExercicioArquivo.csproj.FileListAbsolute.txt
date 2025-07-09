@@ -1,0 +1,15 @@
+C:\Users\jbray\DEV\C#\ExercicioArquivo\ExercicioArquivo\bin\Debug\net8.0\ExercicioArquivo.exe
+C:\Users\jbray\DEV\C#\ExercicioArquivo\ExercicioArquivo\bin\Debug\net8.0\ExercicioArquivo.deps.json
+C:\Users\jbray\DEV\C#\ExercicioArquivo\ExercicioArquivo\bin\Debug\net8.0\ExercicioArquivo.runtimeconfig.json
+C:\Users\jbray\DEV\C#\ExercicioArquivo\ExercicioArquivo\bin\Debug\net8.0\ExercicioArquivo.dll
+C:\Users\jbray\DEV\C#\ExercicioArquivo\ExercicioArquivo\bin\Debug\net8.0\ExercicioArquivo.pdb
+C:\Users\jbray\DEV\C#\ExercicioArquivo\ExercicioArquivo\obj\Debug\net8.0\ExercicioArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbray\DEV\C#\ExercicioArquivo\ExercicioArquivo\obj\Debug\net8.0\ExercicioArquivo.AssemblyInfoInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioArquivo\ExercicioArquivo\obj\Debug\net8.0\ExercicioArquivo.AssemblyInfo.cs
+C:\Users\jbray\DEV\C#\ExercicioArquivo\ExercicioArquivo\obj\Debug\net8.0\ExercicioArquivo.csproj.CoreCompileInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioArquivo\ExercicioArquivo\obj\Debug\net8.0\ExercicioArquivo.sourcelink.json
+C:\Users\jbray\DEV\C#\ExercicioArquivo\ExercicioArquivo\obj\Debug\net8.0\ExercicioArquivo.dll
+C:\Users\jbray\DEV\C#\ExercicioArquivo\ExercicioArquivo\obj\Debug\net8.0\refint\ExercicioArquivo.dll
+C:\Users\jbray\DEV\C#\ExercicioArquivo\ExercicioArquivo\obj\Debug\net8.0\ExercicioArquivo.pdb
+C:\Users\jbray\DEV\C#\ExercicioArquivo\ExercicioArquivo\obj\Debug\net8.0\ExercicioArquivo.genruntimeconfig.cache
+C:\Users\jbray\DEV\C#\ExercicioArquivo\ExercicioArquivo\obj\Debug\net8.0\ref\ExercicioArquivo.dll

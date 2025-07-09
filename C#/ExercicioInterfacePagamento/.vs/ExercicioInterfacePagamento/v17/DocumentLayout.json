@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jbray\\DEV\\C#\\ExercicioInterfacePagamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{473482D1-FA99-4B22-B8EA-A3DF24B9AAB5}|ExercicioInterfacePagamento\\ExercicioInterfacePagamento.csproj|c:\\users\\jbray\\dev\\c#\\exerciciointerfacepagamento\\exerciciointerfacepagamento\\services\\contractprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473482D1-FA99-4B22-B8EA-A3DF24B9AAB5}|ExercicioInterfacePagamento\\ExercicioInterfacePagamento.csproj|solutionrelative:exerciciointerfacepagamento\\services\\contractprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473482D1-FA99-4B22-B8EA-A3DF24B9AAB5}|ExercicioInterfacePagamento\\ExercicioInterfacePagamento.csproj|c:\\users\\jbray\\dev\\c#\\exerciciointerfacepagamento\\exerciciointerfacepagamento\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473482D1-FA99-4B22-B8EA-A3DF24B9AAB5}|ExercicioInterfacePagamento\\ExercicioInterfacePagamento.csproj|solutionrelative:exerciciointerfacepagamento\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473482D1-FA99-4B22-B8EA-A3DF24B9AAB5}|ExercicioInterfacePagamento\\ExercicioInterfacePagamento.csproj|c:\\users\\jbray\\dev\\c#\\exerciciointerfacepagamento\\exerciciointerfacepagamento\\entities\\instaliment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473482D1-FA99-4B22-B8EA-A3DF24B9AAB5}|ExercicioInterfacePagamento\\ExercicioInterfacePagamento.csproj|solutionrelative:exerciciointerfacepagamento\\entities\\instaliment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473482D1-FA99-4B22-B8EA-A3DF24B9AAB5}|ExercicioInterfacePagamento\\ExercicioInterfacePagamento.csproj|c:\\users\\jbray\\dev\\c#\\exerciciointerfacepagamento\\exerciciointerfacepagamento\\services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473482D1-FA99-4B22-B8EA-A3DF24B9AAB5}|ExercicioInterfacePagamento\\ExercicioInterfacePagamento.csproj|solutionrelative:exerciciointerfacepagamento\\services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473482D1-FA99-4B22-B8EA-A3DF24B9AAB5}|ExercicioInterfacePagamento\\ExercicioInterfacePagamento.csproj|c:\\users\\jbray\\dev\\c#\\exerciciointerfacepagamento\\exerciciointerfacepagamento\\services\\onlinepaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473482D1-FA99-4B22-B8EA-A3DF24B9AAB5}|ExercicioInterfacePagamento\\ExercicioInterfacePagamento.csproj|solutionrelative:exerciciointerfacepagamento\\services\\onlinepaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaypalService.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioInterfacePagamento\\ExercicioInterfacePagamento\\Services\\PaypalService.cs",
+              "RelativeDocumentMoniker": "ExercicioInterfacePagamento\\Services\\PaypalService.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioInterfacePagamento\\ExercicioInterfacePagamento\\Services\\PaypalService.cs",
+              "RelativeToolTip": "ExercicioInterfacePagamento\\Services\\PaypalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T01:31:56.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContractProcessing.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioInterfacePagamento\\ExercicioInterfacePagamento\\Services\\ContractProcessing.cs",
+              "RelativeDocumentMoniker": "ExercicioInterfacePagamento\\Services\\ContractProcessing.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioInterfacePagamento\\ExercicioInterfacePagamento\\Services\\ContractProcessing.cs",
+              "RelativeToolTip": "ExercicioInterfacePagamento\\Services\\ContractProcessing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T01:31:25.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioInterfacePagamento\\ExercicioInterfacePagamento\\Entities\\Contract.cs",
+              "RelativeDocumentMoniker": "ExercicioInterfacePagamento\\Entities\\Contract.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioInterfacePagamento\\ExercicioInterfacePagamento\\Entities\\Contract.cs",
+              "RelativeToolTip": "ExercicioInterfacePagamento\\Entities\\Contract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T01:26:15.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Instaliment.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioInterfacePagamento\\ExercicioInterfacePagamento\\Entities\\Instaliment.cs",
+              "RelativeDocumentMoniker": "ExercicioInterfacePagamento\\Entities\\Instaliment.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioInterfacePagamento\\ExercicioInterfacePagamento\\Entities\\Instaliment.cs",
+              "RelativeToolTip": "ExercicioInterfacePagamento\\Entities\\Instaliment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T01:26:25.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OnlinePaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioInterfacePagamento\\ExercicioInterfacePagamento\\Services\\OnlinePaymentService.cs",
+              "RelativeDocumentMoniker": "ExercicioInterfacePagamento\\Services\\OnlinePaymentService.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioInterfacePagamento\\ExercicioInterfacePagamento\\Services\\OnlinePaymentService.cs",
+              "RelativeToolTip": "ExercicioInterfacePagamento\\Services\\OnlinePaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T01:46:29.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
