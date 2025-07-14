@@ -5,6 +5,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{473482D1-FA99-4B22-B8EA-A3DF24B9AAB5}|ExercicioInterfacePagamento\\ExercicioInterfacePagamento.csproj|c:\\users\\jbray\\dev\\c#\\exerciciointerfacepagamento\\exerciciointerfacepagamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{473482D1-FA99-4B22-B8EA-A3DF24B9AAB5}|ExercicioInterfacePagamento\\ExercicioInterfacePagamento.csproj|solutionrelative:exerciciointerfacepagamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473482D1-FA99-4B22-B8EA-A3DF24B9AAB5}|ExercicioInterfacePagamento\\ExercicioInterfacePagamento.csproj|c:\\users\\jbray\\dev\\c#\\exerciciointerfacepagamento\\exerciciointerfacepagamento\\entities\\contracttrab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473482D1-FA99-4B22-B8EA-A3DF24B9AAB5}|ExercicioInterfacePagamento\\ExercicioInterfacePagamento.csproj|solutionrelative:exerciciointerfacepagamento\\entities\\contracttrab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473482D1-FA99-4B22-B8EA-A3DF24B9AAB5}|ExercicioInterfacePagamento\\ExercicioInterfacePagamento.csproj|c:\\users\\jbray\\dev\\c#\\exerciciointerfacepagamento\\exerciciointerfacepagamento\\entities\\instaliment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473482D1-FA99-4B22-B8EA-A3DF24B9AAB5}|ExercicioInterfacePagamento\\ExercicioInterfacePagamento.csproj|solutionrelative:exerciciointerfacepagamento\\entities\\instaliment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473482D1-FA99-4B22-B8EA-A3DF24B9AAB5}|ExercicioInterfacePagamento\\ExercicioInterfacePagamento.csproj|c:\\users\\jbray\\dev\\c#\\exerciciointerfacepagamento\\exerciciointerfacepagamento\\services\\contractprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473482D1-FA99-4B22-B8EA-A3DF24B9AAB5}|ExercicioInterfacePagamento\\ExercicioInterfacePagamento.csproj|solutionrelative:exerciciointerfacepagamento\\services\\contractprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473482D1-FA99-4B22-B8EA-A3DF24B9AAB5}|ExercicioInterfacePagamento\\ExercicioInterfacePagamento.csproj|c:\\users\\jbray\\dev\\c#\\exerciciointerfacepagamento\\exerciciointerfacepagamento\\services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473482D1-FA99-4B22-B8EA-A3DF24B9AAB5}|ExercicioInterfacePagamento\\ExercicioInterfacePagamento.csproj|solutionrelative:exerciciointerfacepagamento\\services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473482D1-FA99-4B22-B8EA-A3DF24B9AAB5}|ExercicioInterfacePagamento\\ExercicioInterfacePagamento.csproj|c:\\users\\jbray\\dev\\c#\\exerciciointerfacepagamento\\exerciciointerfacepagamento\\services\\ionlinepaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473482D1-FA99-4B22-B8EA-A3DF24B9AAB5}|ExercicioInterfacePagamento\\ExercicioInterfacePagamento.csproj|solutionrelative:exerciciointerfacepagamento\\services\\ionlinepaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +44,74 @@
               "RelativeDocumentMoniker": "ExercicioInterfacePagamento\\Program.cs",
               "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioInterfacePagamento\\ExercicioInterfacePagamento\\Program.cs",
               "RelativeToolTip": "ExercicioInterfacePagamento\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAD4vxAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T01:20:51.332Z",
+              "WhenOpened": "2025-07-10T23:30:22.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContractProcessing.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioInterfacePagamento\\ExercicioInterfacePagamento\\Services\\ContractProcessing.cs",
+              "RelativeDocumentMoniker": "ExercicioInterfacePagamento\\Services\\ContractProcessing.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioInterfacePagamento\\ExercicioInterfacePagamento\\Services\\ContractProcessing.cs",
+              "RelativeToolTip": "ExercicioInterfacePagamento\\Services\\ContractProcessing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T22:45:41.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContractTrab.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioInterfacePagamento\\ExercicioInterfacePagamento\\Entities\\ContractTrab.cs",
+              "RelativeDocumentMoniker": "ExercicioInterfacePagamento\\Entities\\ContractTrab.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioInterfacePagamento\\ExercicioInterfacePagamento\\Entities\\ContractTrab.cs",
+              "RelativeToolTip": "ExercicioInterfacePagamento\\Entities\\ContractTrab.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T22:35:42.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaypalService.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioInterfacePagamento\\ExercicioInterfacePagamento\\Services\\PaypalService.cs",
+              "RelativeDocumentMoniker": "ExercicioInterfacePagamento\\Services\\PaypalService.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioInterfacePagamento\\ExercicioInterfacePagamento\\Services\\PaypalService.cs",
+              "RelativeToolTip": "ExercicioInterfacePagamento\\Services\\PaypalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T22:52:05.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Instaliment.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioInterfacePagamento\\ExercicioInterfacePagamento\\Entities\\Instaliment.cs",
+              "RelativeDocumentMoniker": "ExercicioInterfacePagamento\\Entities\\Instaliment.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioInterfacePagamento\\ExercicioInterfacePagamento\\Entities\\Instaliment.cs",
+              "RelativeToolTip": "ExercicioInterfacePagamento\\Entities\\Instaliment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T22:35:45.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOnlinePaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioInterfacePagamento\\ExercicioInterfacePagamento\\Services\\IOnlinePaymentService.cs",
+              "RelativeDocumentMoniker": "ExercicioInterfacePagamento\\Services\\IOnlinePaymentService.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioInterfacePagamento\\ExercicioInterfacePagamento\\Services\\IOnlinePaymentService.cs",
+              "RelativeToolTip": "ExercicioInterfacePagamento\\Services\\IOnlinePaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T22:42:21.634Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+C:\Users\jbray\DEV\C#\ExercicioShape\ExercicioShape\bin\Debug\net8.0\ExercicioShape.exe
+C:\Users\jbray\DEV\C#\ExercicioShape\ExercicioShape\bin\Debug\net8.0\ExercicioShape.deps.json
+C:\Users\jbray\DEV\C#\ExercicioShape\ExercicioShape\bin\Debug\net8.0\ExercicioShape.runtimeconfig.json
+C:\Users\jbray\DEV\C#\ExercicioShape\ExercicioShape\bin\Debug\net8.0\ExercicioShape.dll
+C:\Users\jbray\DEV\C#\ExercicioShape\ExercicioShape\bin\Debug\net8.0\ExercicioShape.pdb
+C:\Users\jbray\DEV\C#\ExercicioShape\ExercicioShape\obj\Debug\net8.0\ExercicioShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbray\DEV\C#\ExercicioShape\ExercicioShape\obj\Debug\net8.0\ExercicioShape.AssemblyInfoInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioShape\ExercicioShape\obj\Debug\net8.0\ExercicioShape.AssemblyInfo.cs
+C:\Users\jbray\DEV\C#\ExercicioShape\ExercicioShape\obj\Debug\net8.0\ExercicioShape.csproj.CoreCompileInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioShape\ExercicioShape\obj\Debug\net8.0\ExercicioShape.sourcelink.json
+C:\Users\jbray\DEV\C#\ExercicioShape\ExercicioShape\obj\Debug\net8.0\ExercicioShape.dll
+C:\Users\jbray\DEV\C#\ExercicioShape\ExercicioShape\obj\Debug\net8.0\refint\ExercicioShape.dll
+C:\Users\jbray\DEV\C#\ExercicioShape\ExercicioShape\obj\Debug\net8.0\ExercicioShape.pdb
+C:\Users\jbray\DEV\C#\ExercicioShape\ExercicioShape\obj\Debug\net8.0\ExercicioShape.genruntimeconfig.cache
+C:\Users\jbray\DEV\C#\ExercicioShape\ExercicioShape\obj\Debug\net8.0\ref\ExercicioShape.dll

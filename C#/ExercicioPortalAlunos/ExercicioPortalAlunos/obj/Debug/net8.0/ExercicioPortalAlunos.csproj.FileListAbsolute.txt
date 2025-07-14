@@ -1,0 +1,5 @@
+C:\Users\jbray\DEV\C#\ExercicioPortalAlunos\ExercicioPortalAlunos\obj\Debug\net8.0\ExercicioPortalAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbray\DEV\C#\ExercicioPortalAlunos\ExercicioPortalAlunos\obj\Debug\net8.0\ExercicioPortalAlunos.AssemblyInfoInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioPortalAlunos\ExercicioPortalAlunos\obj\Debug\net8.0\ExercicioPortalAlunos.AssemblyInfo.cs
+C:\Users\jbray\DEV\C#\ExercicioPortalAlunos\ExercicioPortalAlunos\obj\Debug\net8.0\ExercicioPortalAlunos.csproj.CoreCompileInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioPortalAlunos\ExercicioPortalAlunos\obj\Debug\net8.0\ExercicioPortalAlunos.sourcelink.json

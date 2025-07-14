@@ -1,0 +1,15 @@
+C:\Users\jbray\DEV\C#\ExercicioGetHasCodeEquals\ExercicioGetHasCodeEquals\bin\Debug\net8.0\ExercicioGetHasCodeEquals.exe
+C:\Users\jbray\DEV\C#\ExercicioGetHasCodeEquals\ExercicioGetHasCodeEquals\bin\Debug\net8.0\ExercicioGetHasCodeEquals.deps.json
+C:\Users\jbray\DEV\C#\ExercicioGetHasCodeEquals\ExercicioGetHasCodeEquals\bin\Debug\net8.0\ExercicioGetHasCodeEquals.runtimeconfig.json
+C:\Users\jbray\DEV\C#\ExercicioGetHasCodeEquals\ExercicioGetHasCodeEquals\bin\Debug\net8.0\ExercicioGetHasCodeEquals.dll
+C:\Users\jbray\DEV\C#\ExercicioGetHasCodeEquals\ExercicioGetHasCodeEquals\bin\Debug\net8.0\ExercicioGetHasCodeEquals.pdb
+C:\Users\jbray\DEV\C#\ExercicioGetHasCodeEquals\ExercicioGetHasCodeEquals\obj\Debug\net8.0\ExercicioGetHasCodeEquals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbray\DEV\C#\ExercicioGetHasCodeEquals\ExercicioGetHasCodeEquals\obj\Debug\net8.0\ExercicioGetHasCodeEquals.AssemblyInfoInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioGetHasCodeEquals\ExercicioGetHasCodeEquals\obj\Debug\net8.0\ExercicioGetHasCodeEquals.AssemblyInfo.cs
+C:\Users\jbray\DEV\C#\ExercicioGetHasCodeEquals\ExercicioGetHasCodeEquals\obj\Debug\net8.0\ExercicioGetHasCodeEquals.csproj.CoreCompileInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioGetHasCodeEquals\ExercicioGetHasCodeEquals\obj\Debug\net8.0\ExercicioGetHasCodeEquals.sourcelink.json
+C:\Users\jbray\DEV\C#\ExercicioGetHasCodeEquals\ExercicioGetHasCodeEquals\obj\Debug\net8.0\ExercicioGetHasCodeEquals.dll
+C:\Users\jbray\DEV\C#\ExercicioGetHasCodeEquals\ExercicioGetHasCodeEquals\obj\Debug\net8.0\refint\ExercicioGetHasCodeEquals.dll
+C:\Users\jbray\DEV\C#\ExercicioGetHasCodeEquals\ExercicioGetHasCodeEquals\obj\Debug\net8.0\ExercicioGetHasCodeEquals.pdb
+C:\Users\jbray\DEV\C#\ExercicioGetHasCodeEquals\ExercicioGetHasCodeEquals\obj\Debug\net8.0\ExercicioGetHasCodeEquals.genruntimeconfig.cache
+C:\Users\jbray\DEV\C#\ExercicioGetHasCodeEquals\ExercicioGetHasCodeEquals\obj\Debug\net8.0\ref\ExercicioGetHasCodeEquals.dll

@@ -1,0 +1,15 @@
+C:\Users\jbray\DEV\C#\ExercicioInterfacePagamento\ExercicioInterfacePagamento\bin\Debug\net8.0\ExercicioInterfacePagamento.exe
+C:\Users\jbray\DEV\C#\ExercicioInterfacePagamento\ExercicioInterfacePagamento\bin\Debug\net8.0\ExercicioInterfacePagamento.deps.json
+C:\Users\jbray\DEV\C#\ExercicioInterfacePagamento\ExercicioInterfacePagamento\bin\Debug\net8.0\ExercicioInterfacePagamento.runtimeconfig.json
+C:\Users\jbray\DEV\C#\ExercicioInterfacePagamento\ExercicioInterfacePagamento\bin\Debug\net8.0\ExercicioInterfacePagamento.dll
+C:\Users\jbray\DEV\C#\ExercicioInterfacePagamento\ExercicioInterfacePagamento\bin\Debug\net8.0\ExercicioInterfacePagamento.pdb
+C:\Users\jbray\DEV\C#\ExercicioInterfacePagamento\ExercicioInterfacePagamento\obj\Debug\net8.0\ExercicioInterfacePagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbray\DEV\C#\ExercicioInterfacePagamento\ExercicioInterfacePagamento\obj\Debug\net8.0\ExercicioInterfacePagamento.AssemblyInfoInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioInterfacePagamento\ExercicioInterfacePagamento\obj\Debug\net8.0\ExercicioInterfacePagamento.AssemblyInfo.cs
+C:\Users\jbray\DEV\C#\ExercicioInterfacePagamento\ExercicioInterfacePagamento\obj\Debug\net8.0\ExercicioInterfacePagamento.csproj.CoreCompileInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioInterfacePagamento\ExercicioInterfacePagamento\obj\Debug\net8.0\ExercicioInterfacePagamento.sourcelink.json
+C:\Users\jbray\DEV\C#\ExercicioInterfacePagamento\ExercicioInterfacePagamento\obj\Debug\net8.0\ExercicioInterfacePagamento.dll
+C:\Users\jbray\DEV\C#\ExercicioInterfacePagamento\ExercicioInterfacePagamento\obj\Debug\net8.0\refint\ExercicioInterfacePagamento.dll
+C:\Users\jbray\DEV\C#\ExercicioInterfacePagamento\ExercicioInterfacePagamento\obj\Debug\net8.0\ExercicioInterfacePagamento.pdb
+C:\Users\jbray\DEV\C#\ExercicioInterfacePagamento\ExercicioInterfacePagamento\obj\Debug\net8.0\ExercicioInterfacePagamento.genruntimeconfig.cache
+C:\Users\jbray\DEV\C#\ExercicioInterfacePagamento\ExercicioInterfacePagamento\obj\Debug\net8.0\ref\ExercicioInterfacePagamento.dll

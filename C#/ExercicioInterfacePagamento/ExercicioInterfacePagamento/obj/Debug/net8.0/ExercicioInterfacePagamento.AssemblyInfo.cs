@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExercicioInterfacePagamento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c040ba5bc0df7710e14ee364f9b2bae0be293c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54cac898ec66e241c1c623bd232f38c93d3409d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExercicioInterfacePagamento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExercicioInterfacePagamento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

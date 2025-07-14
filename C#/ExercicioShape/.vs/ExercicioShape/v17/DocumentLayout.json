@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jbray\\DEV\\C#\\ExercicioShape\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C02A042F-58F7-445B-87AE-F6F8AFB56517}|ExercicioShape\\ExercicioShape.csproj|c:\\users\\jbray\\dev\\c#\\exercicioshape\\exercicioshape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02A042F-58F7-445B-87AE-F6F8AFB56517}|ExercicioShape\\ExercicioShape.csproj|solutionrelative:exercicioshape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02A042F-58F7-445B-87AE-F6F8AFB56517}|ExercicioShape\\ExercicioShape.csproj|c:\\users\\jbray\\dev\\c#\\exercicioshape\\exercicioshape\\model\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02A042F-58F7-445B-87AE-F6F8AFB56517}|ExercicioShape\\ExercicioShape.csproj|solutionrelative:exercicioshape\\model\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02A042F-58F7-445B-87AE-F6F8AFB56517}|ExercicioShape\\ExercicioShape.csproj|c:\\users\\jbray\\dev\\c#\\exercicioshape\\exercicioshape\\model\\entities\\abstractshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02A042F-58F7-445B-87AE-F6F8AFB56517}|ExercicioShape\\ExercicioShape.csproj|solutionrelative:exercicioshape\\model\\entities\\abstractshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02A042F-58F7-445B-87AE-F6F8AFB56517}|ExercicioShape\\ExercicioShape.csproj|c:\\users\\jbray\\dev\\c#\\exercicioshape\\exercicioshape\\model\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02A042F-58F7-445B-87AE-F6F8AFB56517}|ExercicioShape\\ExercicioShape.csproj|solutionrelative:exercicioshape\\model\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02A042F-58F7-445B-87AE-F6F8AFB56517}|ExercicioShape\\ExercicioShape.csproj|c:\\users\\jbray\\dev\\c#\\exercicioshape\\exercicioshape\\model\\enum\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02A042F-58F7-445B-87AE-F6F8AFB56517}|ExercicioShape\\ExercicioShape.csproj|solutionrelative:exercicioshape\\model\\enum\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02A042F-58F7-445B-87AE-F6F8AFB56517}|ExercicioShape\\ExercicioShape.csproj|c:\\users\\jbray\\dev\\c#\\exercicioshape\\exercicioshape\\model\\entities\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02A042F-58F7-445B-87AE-F6F8AFB56517}|ExercicioShape\\ExercicioShape.csproj|solutionrelative:exercicioshape\\model\\entities\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioShape\\ExercicioShape\\Model\\Entities\\IShape.cs",
+              "RelativeDocumentMoniker": "ExercicioShape\\Model\\Entities\\IShape.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioShape\\ExercicioShape\\Model\\Entities\\IShape.cs",
+              "RelativeToolTip": "ExercicioShape\\Model\\Entities\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T00:19:59.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Colors.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioShape\\ExercicioShape\\Model\\Enum\\Colors.cs",
+              "RelativeDocumentMoniker": "ExercicioShape\\Model\\Enum\\Colors.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioShape\\ExercicioShape\\Model\\Enum\\Colors.cs",
+              "RelativeToolTip": "ExercicioShape\\Model\\Enum\\Colors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T00:13:59.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioShape\\ExercicioShape\\Model\\Entities\\Circle.cs",
+              "RelativeDocumentMoniker": "ExercicioShape\\Model\\Entities\\Circle.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioShape\\ExercicioShape\\Model\\Entities\\Circle.cs",
+              "RelativeToolTip": "ExercicioShape\\Model\\Entities\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T00:13:30.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioShape\\ExercicioShape\\Model\\Entities\\Rectangle.cs",
+              "RelativeDocumentMoniker": "ExercicioShape\\Model\\Entities\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioShape\\ExercicioShape\\Model\\Entities\\Rectangle.cs",
+              "RelativeToolTip": "ExercicioShape\\Model\\Entities\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T00:13:20.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AbstractShape.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioShape\\ExercicioShape\\Model\\Entities\\AbstractShape.cs",
+              "RelativeDocumentMoniker": "ExercicioShape\\Model\\Entities\\AbstractShape.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioShape\\ExercicioShape\\Model\\Entities\\AbstractShape.cs",
+              "RelativeToolTip": "ExercicioShape\\Model\\Entities\\AbstractShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T00:13:06.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioShape\\ExercicioShape\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioShape\\Program.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioShape\\ExercicioShape\\Program.cs",
+              "RelativeToolTip": "ExercicioShape\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T00:02:56.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

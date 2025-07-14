@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jbray\\DEV\\C#\\ExercicioConjuntoLogs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{798F7E16-82D7-4240-AC9D-3FB5E877BED1}|ExercicioConjuntoLogs\\ExercicioConjuntoLogs.csproj|c:\\users\\jbray\\dev\\c#\\exercicioconjuntologs\\exercicioconjuntologs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798F7E16-82D7-4240-AC9D-3FB5E877BED1}|ExercicioConjuntoLogs\\ExercicioConjuntoLogs.csproj|solutionrelative:exercicioconjuntologs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798F7E16-82D7-4240-AC9D-3FB5E877BED1}|ExercicioConjuntoLogs\\ExercicioConjuntoLogs.csproj|c:\\users\\jbray\\dev\\c#\\exercicioconjuntologs\\exercicioconjuntologs\\entities\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798F7E16-82D7-4240-AC9D-3FB5E877BED1}|ExercicioConjuntoLogs\\ExercicioConjuntoLogs.csproj|solutionrelative:exercicioconjuntologs\\entities\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798F7E16-82D7-4240-AC9D-3FB5E877BED1}|ExercicioConjuntoLogs\\ExercicioConjuntoLogs.csproj|c:\\users\\jbray\\dev\\c#\\exercicioconjuntologs\\exercicioconjuntologs\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798F7E16-82D7-4240-AC9D-3FB5E877BED1}|ExercicioConjuntoLogs\\ExercicioConjuntoLogs.csproj|solutionrelative:exercicioconjuntologs\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioConjuntoLogs\\ExercicioConjuntoLogs\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ExercicioConjuntoLogs\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioConjuntoLogs\\ExercicioConjuntoLogs\\Entities\\User.cs",
+              "RelativeToolTip": "ExercicioConjuntoLogs\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T18:53:59.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logs.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioConjuntoLogs\\ExercicioConjuntoLogs\\Entities\\Logs.cs",
+              "RelativeDocumentMoniker": "ExercicioConjuntoLogs\\Entities\\Logs.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioConjuntoLogs\\ExercicioConjuntoLogs\\Entities\\Logs.cs",
+              "RelativeToolTip": "ExercicioConjuntoLogs\\Entities\\Logs.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T18:52:31.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioConjuntoLogs\\ExercicioConjuntoLogs\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioConjuntoLogs\\Program.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioConjuntoLogs\\ExercicioConjuntoLogs\\Program.cs",
+              "RelativeToolTip": "ExercicioConjuntoLogs\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAewBMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T18:44:29.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\jbray\DEV\C#\ExerciciosGenerics\ExerciciosGenerics\bin\Debug\net8.0\ExerciciosGenerics.exe
+C:\Users\jbray\DEV\C#\ExerciciosGenerics\ExerciciosGenerics\bin\Debug\net8.0\ExerciciosGenerics.deps.json
+C:\Users\jbray\DEV\C#\ExerciciosGenerics\ExerciciosGenerics\bin\Debug\net8.0\ExerciciosGenerics.runtimeconfig.json
+C:\Users\jbray\DEV\C#\ExerciciosGenerics\ExerciciosGenerics\bin\Debug\net8.0\ExerciciosGenerics.dll
+C:\Users\jbray\DEV\C#\ExerciciosGenerics\ExerciciosGenerics\bin\Debug\net8.0\ExerciciosGenerics.pdb
+C:\Users\jbray\DEV\C#\ExerciciosGenerics\ExerciciosGenerics\obj\Debug\net8.0\ExerciciosGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbray\DEV\C#\ExerciciosGenerics\ExerciciosGenerics\obj\Debug\net8.0\ExerciciosGenerics.AssemblyInfoInputs.cache
+C:\Users\jbray\DEV\C#\ExerciciosGenerics\ExerciciosGenerics\obj\Debug\net8.0\ExerciciosGenerics.AssemblyInfo.cs
+C:\Users\jbray\DEV\C#\ExerciciosGenerics\ExerciciosGenerics\obj\Debug\net8.0\ExerciciosGenerics.csproj.CoreCompileInputs.cache
+C:\Users\jbray\DEV\C#\ExerciciosGenerics\ExerciciosGenerics\obj\Debug\net8.0\ExerciciosGenerics.sourcelink.json
+C:\Users\jbray\DEV\C#\ExerciciosGenerics\ExerciciosGenerics\obj\Debug\net8.0\ExerciciosGenerics.dll
+C:\Users\jbray\DEV\C#\ExerciciosGenerics\ExerciciosGenerics\obj\Debug\net8.0\refint\ExerciciosGenerics.dll
+C:\Users\jbray\DEV\C#\ExerciciosGenerics\ExerciciosGenerics\obj\Debug\net8.0\ExerciciosGenerics.pdb
+C:\Users\jbray\DEV\C#\ExerciciosGenerics\ExerciciosGenerics\obj\Debug\net8.0\ExerciciosGenerics.genruntimeconfig.cache
+C:\Users\jbray\DEV\C#\ExerciciosGenerics\ExerciciosGenerics\obj\Debug\net8.0\ref\ExerciciosGenerics.dll

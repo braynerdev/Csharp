@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jbray\\DEV\\C#\\ExercicioGetHasCodeEquals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{488F1C1D-AB21-4F5A-8EDD-780FC4968DA9}|ExercicioGetHasCodeEquals\\ExercicioGetHasCodeEquals.csproj|c:\\users\\jbray\\dev\\c#\\exerciciogethascodeequals\\exerciciogethascodeequals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488F1C1D-AB21-4F5A-8EDD-780FC4968DA9}|ExercicioGetHasCodeEquals\\ExercicioGetHasCodeEquals.csproj|solutionrelative:exerciciogethascodeequals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488F1C1D-AB21-4F5A-8EDD-780FC4968DA9}|ExercicioGetHasCodeEquals\\ExercicioGetHasCodeEquals.csproj|c:\\users\\jbray\\dev\\c#\\exerciciogethascodeequals\\exerciciogethascodeequals\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488F1C1D-AB21-4F5A-8EDD-780FC4968DA9}|ExercicioGetHasCodeEquals\\ExercicioGetHasCodeEquals.csproj|solutionrelative:exerciciogethascodeequals\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioGetHasCodeEquals\\ExercicioGetHasCodeEquals\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ExercicioGetHasCodeEquals\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioGetHasCodeEquals\\ExercicioGetHasCodeEquals\\Entities\\Product.cs",
+              "RelativeToolTip": "ExercicioGetHasCodeEquals\\Entities\\Product.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T01:56:40.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioGetHasCodeEquals\\ExercicioGetHasCodeEquals\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioGetHasCodeEquals\\Program.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioGetHasCodeEquals\\ExercicioGetHasCodeEquals\\Program.cs",
+              "RelativeToolTip": "ExercicioGetHasCodeEquals\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T01:54:55.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

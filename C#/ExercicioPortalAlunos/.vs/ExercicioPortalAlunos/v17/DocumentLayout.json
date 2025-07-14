@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPortalAlunos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6A039F-9C69-4B54-9B63-10397DB0DC23}|ExercicioPortalAlunos\\ExercicioPortalAlunos.csproj|c:\\users\\jbray\\dev\\c#\\exercicioportalalunos\\exercicioportalalunos\\entities\\alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6A039F-9C69-4B54-9B63-10397DB0DC23}|ExercicioPortalAlunos\\ExercicioPortalAlunos.csproj|solutionrelative:exercicioportalalunos\\entities\\alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6A039F-9C69-4B54-9B63-10397DB0DC23}|ExercicioPortalAlunos\\ExercicioPortalAlunos.csproj|c:\\users\\jbray\\dev\\c#\\exercicioportalalunos\\exercicioportalalunos\\entities\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6A039F-9C69-4B54-9B63-10397DB0DC23}|ExercicioPortalAlunos\\ExercicioPortalAlunos.csproj|solutionrelative:exercicioportalalunos\\entities\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6A039F-9C69-4B54-9B63-10397DB0DC23}|ExercicioPortalAlunos\\ExercicioPortalAlunos.csproj|c:\\users\\jbray\\dev\\c#\\exercicioportalalunos\\exercicioportalalunos\\entities\\userabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6A039F-9C69-4B54-9B63-10397DB0DC23}|ExercicioPortalAlunos\\ExercicioPortalAlunos.csproj|solutionrelative:exercicioportalalunos\\entities\\userabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6A039F-9C69-4B54-9B63-10397DB0DC23}|ExercicioPortalAlunos\\ExercicioPortalAlunos.csproj|c:\\users\\jbray\\dev\\c#\\exercicioportalalunos\\exercicioportalalunos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6A039F-9C69-4B54-9B63-10397DB0DC23}|ExercicioPortalAlunos\\ExercicioPortalAlunos.csproj|solutionrelative:exercicioportalalunos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserAbstract.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPortalAlunos\\ExercicioPortalAlunos\\Entities\\UserAbstract.cs",
+              "RelativeDocumentMoniker": "ExercicioPortalAlunos\\Entities\\UserAbstract.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPortalAlunos\\ExercicioPortalAlunos\\Entities\\UserAbstract.cs*",
+              "RelativeToolTip": "ExercicioPortalAlunos\\Entities\\UserAbstract.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T01:47:21.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPortalAlunos\\ExercicioPortalAlunos\\Entities\\Professor.cs",
+              "RelativeDocumentMoniker": "ExercicioPortalAlunos\\Entities\\Professor.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPortalAlunos\\ExercicioPortalAlunos\\Entities\\Professor.cs*",
+              "RelativeToolTip": "ExercicioPortalAlunos\\Entities\\Professor.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T01:46:27.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Alunos.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPortalAlunos\\ExercicioPortalAlunos\\Entities\\Alunos.cs",
+              "RelativeDocumentMoniker": "ExercicioPortalAlunos\\Entities\\Alunos.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPortalAlunos\\ExercicioPortalAlunos\\Entities\\Alunos.cs*",
+              "RelativeToolTip": "ExercicioPortalAlunos\\Entities\\Alunos.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T01:43:06.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPortalAlunos\\ExercicioPortalAlunos\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioPortalAlunos\\Program.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPortalAlunos\\ExercicioPortalAlunos\\Program.cs*",
+              "RelativeToolTip": "ExercicioPortalAlunos\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T01:41:36.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

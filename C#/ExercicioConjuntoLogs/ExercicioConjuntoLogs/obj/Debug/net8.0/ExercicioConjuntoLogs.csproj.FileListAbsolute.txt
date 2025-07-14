@@ -1,0 +1,15 @@
+C:\Users\jbray\DEV\C#\ExercicioConjuntoLogs\ExercicioConjuntoLogs\bin\Debug\net8.0\ExercicioConjuntoLogs.exe
+C:\Users\jbray\DEV\C#\ExercicioConjuntoLogs\ExercicioConjuntoLogs\bin\Debug\net8.0\ExercicioConjuntoLogs.deps.json
+C:\Users\jbray\DEV\C#\ExercicioConjuntoLogs\ExercicioConjuntoLogs\bin\Debug\net8.0\ExercicioConjuntoLogs.runtimeconfig.json
+C:\Users\jbray\DEV\C#\ExercicioConjuntoLogs\ExercicioConjuntoLogs\bin\Debug\net8.0\ExercicioConjuntoLogs.dll
+C:\Users\jbray\DEV\C#\ExercicioConjuntoLogs\ExercicioConjuntoLogs\bin\Debug\net8.0\ExercicioConjuntoLogs.pdb
+C:\Users\jbray\DEV\C#\ExercicioConjuntoLogs\ExercicioConjuntoLogs\obj\Debug\net8.0\ExercicioConjuntoLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbray\DEV\C#\ExercicioConjuntoLogs\ExercicioConjuntoLogs\obj\Debug\net8.0\ExercicioConjuntoLogs.AssemblyInfoInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioConjuntoLogs\ExercicioConjuntoLogs\obj\Debug\net8.0\ExercicioConjuntoLogs.AssemblyInfo.cs
+C:\Users\jbray\DEV\C#\ExercicioConjuntoLogs\ExercicioConjuntoLogs\obj\Debug\net8.0\ExercicioConjuntoLogs.csproj.CoreCompileInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioConjuntoLogs\ExercicioConjuntoLogs\obj\Debug\net8.0\ExercicioConjuntoLogs.sourcelink.json
+C:\Users\jbray\DEV\C#\ExercicioConjuntoLogs\ExercicioConjuntoLogs\obj\Debug\net8.0\ExercicioConjuntoLogs.dll
+C:\Users\jbray\DEV\C#\ExercicioConjuntoLogs\ExercicioConjuntoLogs\obj\Debug\net8.0\refint\ExercicioConjuntoLogs.dll
+C:\Users\jbray\DEV\C#\ExercicioConjuntoLogs\ExercicioConjuntoLogs\obj\Debug\net8.0\ExercicioConjuntoLogs.pdb
+C:\Users\jbray\DEV\C#\ExercicioConjuntoLogs\ExercicioConjuntoLogs\obj\Debug\net8.0\ExercicioConjuntoLogs.genruntimeconfig.cache
+C:\Users\jbray\DEV\C#\ExercicioConjuntoLogs\ExercicioConjuntoLogs\obj\Debug\net8.0\ref\ExercicioConjuntoLogs.dll

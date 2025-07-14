@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,13 +9,18 @@ namespace ExercicioInterfacePagamento.Entities
 {
     internal class Instaliment
     {
-        public DateTime DueDate { get; set; }
-        public double Amount { get; set; }
+        public DateTime dueDate {  get; set; }
+        public double amount { get; set; }
 
         public Instaliment(DateTime dueDate, double amount)
         {
-            DueDate = dueDate;
-            Amount = amount;
+            this.dueDate = dueDate;
+            this.amount = amount;
+        }
+
+        public override string ToString()
+        {
+            return $"{dueDate.ToString("dd/MM/yyyy")} - {amount.ToString("F2",CultureInfo.InvariantCulture)}";
         }
     }
 }

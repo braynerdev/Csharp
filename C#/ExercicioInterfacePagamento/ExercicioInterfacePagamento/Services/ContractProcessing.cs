@@ -1,6 +1,7 @@
 ﻿using ExercicioInterfacePagamento.Entities;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics.Contracts;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,20 +10,23 @@ namespace ExercicioInterfacePagamento.Services
 {
     internal class ContractProcessing
     {
-        private OnlinePaymentService _onlinePaymentService;
+        private IOnlinePaymentService _iOnlinePaymentService;
 
-        public ContractProcessing(OnlinePaymentService onlinePaymentService)
+        public ContractProcessing(IOnlinePaymentService iOnlinePaymentService)
         {
-            _onlinePaymentService = onlinePaymentService;
+            _iOnlinePaymentService = iOnlinePaymentService;
         }
 
-        public void ProcessContract(Contract contract, int months)
+        public void Process(ContractTrab contract, int months)
         {
-            double valuePerMouth = contract.TotalValue / months;
+            double InstalimentSimple = contract.TotalValue / months;
+
             for (int i = 1; i <= months; i++)
             {
-                contract.Date.AddMonths(i);
-
+                DateTime date = contract.Date.AddMonths(i);
+                double TaxPerInstaliment = InstalimentSimple +  _iOnlinePaymentService.Interest(InstalimentSimple, i);
+                double TaxPerPayment = TaxPerInstaliment + _iOnlinePaymentService.PaymentFee(TaxPerInstaliment);
+                contract.AddInstaliment(new Instaliment(date, TaxPerPayment));
             }
         }
     }
