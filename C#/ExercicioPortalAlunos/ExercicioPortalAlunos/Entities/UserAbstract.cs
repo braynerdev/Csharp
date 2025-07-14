@@ -13,11 +13,11 @@ namespace ExercicioPortalAlunos.Entities
         public DateTime DataHora { get; protected set; }
 
 
-        public UserAbstract(int id, string name, DateTime dataHora)
+        public UserAbstract(int id, string name)
         {
             Id = id;
             Name = name;
-            DataHora = dataHora;
+            DataHora = DateTime.Now;
         }
 
         public override string ToString()

@@ -9,7 +9,7 @@ namespace ExercicioPortalAlunos.Entities
 {
     internal class Professor : UserAbstract
     {
-        public Professor(int id, string name, DateTime dataHora) : base(id, name, dataHora)
+        public Professor(int id, string name) : base(id, name)
         {
         }
 

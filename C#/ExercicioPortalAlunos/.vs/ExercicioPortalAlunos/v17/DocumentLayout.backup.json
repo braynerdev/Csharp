@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{DD6A039F-9C69-4B54-9B63-10397DB0DC23}|ExercicioPortalAlunos\\ExercicioPortalAlunos.csproj|c:\\users\\jbray\\dev\\c#\\exercicioportalalunos\\exercicioportalalunos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD6A039F-9C69-4B54-9B63-10397DB0DC23}|ExercicioPortalAlunos\\ExercicioPortalAlunos.csproj|solutionrelative:exercicioportalalunos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6A039F-9C69-4B54-9B63-10397DB0DC23}|ExercicioPortalAlunos\\ExercicioPortalAlunos.csproj|c:\\users\\jbray\\dev\\c#\\exercicioportalalunos\\exercicioportalalunos\\entities\\alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6A039F-9C69-4B54-9B63-10397DB0DC23}|ExercicioPortalAlunos\\ExercicioPortalAlunos.csproj|solutionrelative:exercicioportalalunos\\entities\\alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6A039F-9C69-4B54-9B63-10397DB0DC23}|ExercicioPortalAlunos\\ExercicioPortalAlunos.csproj|c:\\users\\jbray\\dev\\c#\\exercicioportalalunos\\exercicioportalalunos\\entities\\cursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6A039F-9C69-4B54-9B63-10397DB0DC23}|ExercicioPortalAlunos\\ExercicioPortalAlunos.csproj|solutionrelative:exercicioportalalunos\\entities\\cursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6A039F-9C69-4B54-9B63-10397DB0DC23}|ExercicioPortalAlunos\\ExercicioPortalAlunos.csproj|c:\\users\\jbray\\dev\\c#\\exercicioportalalunos\\exercicioportalalunos\\entities\\userabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6A039F-9C69-4B54-9B63-10397DB0DC23}|ExercicioPortalAlunos\\ExercicioPortalAlunos.csproj|solutionrelative:exercicioportalalunos\\entities\\userabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6A039F-9C69-4B54-9B63-10397DB0DC23}|ExercicioPortalAlunos\\ExercicioPortalAlunos.csproj|c:\\users\\jbray\\dev\\c#\\exercicioportalalunos\\exercicioportalalunos\\entities\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6A039F-9C69-4B54-9B63-10397DB0DC23}|ExercicioPortalAlunos\\ExercicioPortalAlunos.csproj|solutionrelative:exercicioportalalunos\\entities\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +40,61 @@
               "RelativeDocumentMoniker": "ExercicioPortalAlunos\\Program.cs",
               "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPortalAlunos\\ExercicioPortalAlunos\\Program.cs",
               "RelativeToolTip": "ExercicioPortalAlunos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBIAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T01:41:36.315Z",
+              "WhenOpened": "2025-07-14T02:30:00.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserAbstract.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPortalAlunos\\ExercicioPortalAlunos\\Entities\\UserAbstract.cs",
+              "RelativeDocumentMoniker": "ExercicioPortalAlunos\\Entities\\UserAbstract.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPortalAlunos\\ExercicioPortalAlunos\\Entities\\UserAbstract.cs",
+              "RelativeToolTip": "ExercicioPortalAlunos\\Entities\\UserAbstract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:28:44.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPortalAlunos\\ExercicioPortalAlunos\\Entities\\Professor.cs",
+              "RelativeDocumentMoniker": "ExercicioPortalAlunos\\Entities\\Professor.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPortalAlunos\\ExercicioPortalAlunos\\Entities\\Professor.cs",
+              "RelativeToolTip": "ExercicioPortalAlunos\\Entities\\Professor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:28:40.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cursos.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPortalAlunos\\ExercicioPortalAlunos\\Entities\\Cursos.cs",
+              "RelativeDocumentMoniker": "ExercicioPortalAlunos\\Entities\\Cursos.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPortalAlunos\\ExercicioPortalAlunos\\Entities\\Cursos.cs",
+              "RelativeToolTip": "ExercicioPortalAlunos\\Entities\\Cursos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:24:58.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alunos.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPortalAlunos\\ExercicioPortalAlunos\\Entities\\Alunos.cs",
+              "RelativeDocumentMoniker": "ExercicioPortalAlunos\\Entities\\Alunos.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioPortalAlunos\\ExercicioPortalAlunos\\Entities\\Alunos.cs",
+              "RelativeToolTip": "ExercicioPortalAlunos\\Entities\\Alunos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:24:52.802Z",
               "EditorCaption": ""
             }
           ]

@@ -3,3 +3,13 @@ C:\Users\jbray\DEV\C#\ExercicioPortalAlunos\ExercicioPortalAlunos\obj\Debug\net8
 C:\Users\jbray\DEV\C#\ExercicioPortalAlunos\ExercicioPortalAlunos\obj\Debug\net8.0\ExercicioPortalAlunos.AssemblyInfo.cs
 C:\Users\jbray\DEV\C#\ExercicioPortalAlunos\ExercicioPortalAlunos\obj\Debug\net8.0\ExercicioPortalAlunos.csproj.CoreCompileInputs.cache
 C:\Users\jbray\DEV\C#\ExercicioPortalAlunos\ExercicioPortalAlunos\obj\Debug\net8.0\ExercicioPortalAlunos.sourcelink.json
+C:\Users\jbray\DEV\C#\ExercicioPortalAlunos\ExercicioPortalAlunos\bin\Debug\net8.0\ExercicioPortalAlunos.exe
+C:\Users\jbray\DEV\C#\ExercicioPortalAlunos\ExercicioPortalAlunos\bin\Debug\net8.0\ExercicioPortalAlunos.deps.json
+C:\Users\jbray\DEV\C#\ExercicioPortalAlunos\ExercicioPortalAlunos\bin\Debug\net8.0\ExercicioPortalAlunos.runtimeconfig.json
+C:\Users\jbray\DEV\C#\ExercicioPortalAlunos\ExercicioPortalAlunos\bin\Debug\net8.0\ExercicioPortalAlunos.dll
+C:\Users\jbray\DEV\C#\ExercicioPortalAlunos\ExercicioPortalAlunos\bin\Debug\net8.0\ExercicioPortalAlunos.pdb
+C:\Users\jbray\DEV\C#\ExercicioPortalAlunos\ExercicioPortalAlunos\obj\Debug\net8.0\ExercicioPortalAlunos.dll
+C:\Users\jbray\DEV\C#\ExercicioPortalAlunos\ExercicioPortalAlunos\obj\Debug\net8.0\refint\ExercicioPortalAlunos.dll
+C:\Users\jbray\DEV\C#\ExercicioPortalAlunos\ExercicioPortalAlunos\obj\Debug\net8.0\ExercicioPortalAlunos.pdb
+C:\Users\jbray\DEV\C#\ExercicioPortalAlunos\ExercicioPortalAlunos\obj\Debug\net8.0\ExercicioPortalAlunos.genruntimeconfig.cache
+C:\Users\jbray\DEV\C#\ExercicioPortalAlunos\ExercicioPortalAlunos\obj\Debug\net8.0\ref\ExercicioPortalAlunos.dll
