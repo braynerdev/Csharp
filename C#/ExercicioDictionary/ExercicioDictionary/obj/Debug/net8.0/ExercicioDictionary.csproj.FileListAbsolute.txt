@@ -1,0 +1,15 @@
+C:\Users\jbray\DEV\C#\ExercicioDictionary\ExercicioDictionary\bin\Debug\net8.0\ExercicioDictionary.exe
+C:\Users\jbray\DEV\C#\ExercicioDictionary\ExercicioDictionary\bin\Debug\net8.0\ExercicioDictionary.deps.json
+C:\Users\jbray\DEV\C#\ExercicioDictionary\ExercicioDictionary\bin\Debug\net8.0\ExercicioDictionary.runtimeconfig.json
+C:\Users\jbray\DEV\C#\ExercicioDictionary\ExercicioDictionary\bin\Debug\net8.0\ExercicioDictionary.dll
+C:\Users\jbray\DEV\C#\ExercicioDictionary\ExercicioDictionary\bin\Debug\net8.0\ExercicioDictionary.pdb
+C:\Users\jbray\DEV\C#\ExercicioDictionary\ExercicioDictionary\obj\Debug\net8.0\ExercicioDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbray\DEV\C#\ExercicioDictionary\ExercicioDictionary\obj\Debug\net8.0\ExercicioDictionary.AssemblyInfoInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioDictionary\ExercicioDictionary\obj\Debug\net8.0\ExercicioDictionary.AssemblyInfo.cs
+C:\Users\jbray\DEV\C#\ExercicioDictionary\ExercicioDictionary\obj\Debug\net8.0\ExercicioDictionary.csproj.CoreCompileInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioDictionary\ExercicioDictionary\obj\Debug\net8.0\ExercicioDictionary.sourcelink.json
+C:\Users\jbray\DEV\C#\ExercicioDictionary\ExercicioDictionary\obj\Debug\net8.0\ExercicioDictionary.dll
+C:\Users\jbray\DEV\C#\ExercicioDictionary\ExercicioDictionary\obj\Debug\net8.0\refint\ExercicioDictionary.dll
+C:\Users\jbray\DEV\C#\ExercicioDictionary\ExercicioDictionary\obj\Debug\net8.0\ExercicioDictionary.pdb
+C:\Users\jbray\DEV\C#\ExercicioDictionary\ExercicioDictionary\obj\Debug\net8.0\ExercicioDictionary.genruntimeconfig.cache
+C:\Users\jbray\DEV\C#\ExercicioDictionary\ExercicioDictionary\obj\Debug\net8.0\ref\ExercicioDictionary.dll

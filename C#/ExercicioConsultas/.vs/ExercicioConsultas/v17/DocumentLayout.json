@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jbray\\DEV\\C#\\ExercicioConsultas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACAE674-37B9-4EDB-B8EF-CD9C0C1AB79D}|ExercicioConsultas\\ExercicioConsultas.csproj|c:\\users\\jbray\\dev\\c#\\exercicioconsultas\\exercicioconsultas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACAE674-37B9-4EDB-B8EF-CD9C0C1AB79D}|ExercicioConsultas\\ExercicioConsultas.csproj|solutionrelative:exercicioconsultas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACAE674-37B9-4EDB-B8EF-CD9C0C1AB79D}|ExercicioConsultas\\ExercicioConsultas.csproj|c:\\users\\jbray\\dev\\c#\\exercicioconsultas\\exercicioconsultas\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACAE674-37B9-4EDB-B8EF-CD9C0C1AB79D}|ExercicioConsultas\\ExercicioConsultas.csproj|solutionrelative:exercicioconsultas\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioConsultas\\ExercicioConsultas\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ExercicioConsultas\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioConsultas\\ExercicioConsultas\\Entities\\Product.cs",
+              "RelativeToolTip": "ExercicioConsultas\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T18:38:23.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioConsultas\\ExercicioConsultas\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioConsultas\\Program.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioConsultas\\ExercicioConsultas\\Program.cs",
+              "RelativeToolTip": "ExercicioConsultas\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T18:34:59.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

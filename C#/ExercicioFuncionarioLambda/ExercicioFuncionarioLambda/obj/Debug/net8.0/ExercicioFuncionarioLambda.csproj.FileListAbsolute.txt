@@ -1,0 +1,15 @@
+C:\Users\jbray\DEV\C#\ExercicioFuncionarioLambda\ExercicioFuncionarioLambda\obj\Debug\net8.0\ExercicioFuncionarioLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbray\DEV\C#\ExercicioFuncionarioLambda\ExercicioFuncionarioLambda\obj\Debug\net8.0\ExercicioFuncionarioLambda.AssemblyInfoInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioFuncionarioLambda\ExercicioFuncionarioLambda\obj\Debug\net8.0\ExercicioFuncionarioLambda.AssemblyInfo.cs
+C:\Users\jbray\DEV\C#\ExercicioFuncionarioLambda\ExercicioFuncionarioLambda\obj\Debug\net8.0\ExercicioFuncionarioLambda.csproj.CoreCompileInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioFuncionarioLambda\ExercicioFuncionarioLambda\obj\Debug\net8.0\ExercicioFuncionarioLambda.sourcelink.json
+C:\Users\jbray\DEV\C#\ExercicioFuncionarioLambda\ExercicioFuncionarioLambda\bin\Debug\net8.0\ExercicioFuncionarioLambda.exe
+C:\Users\jbray\DEV\C#\ExercicioFuncionarioLambda\ExercicioFuncionarioLambda\bin\Debug\net8.0\ExercicioFuncionarioLambda.deps.json
+C:\Users\jbray\DEV\C#\ExercicioFuncionarioLambda\ExercicioFuncionarioLambda\bin\Debug\net8.0\ExercicioFuncionarioLambda.runtimeconfig.json
+C:\Users\jbray\DEV\C#\ExercicioFuncionarioLambda\ExercicioFuncionarioLambda\bin\Debug\net8.0\ExercicioFuncionarioLambda.dll
+C:\Users\jbray\DEV\C#\ExercicioFuncionarioLambda\ExercicioFuncionarioLambda\bin\Debug\net8.0\ExercicioFuncionarioLambda.pdb
+C:\Users\jbray\DEV\C#\ExercicioFuncionarioLambda\ExercicioFuncionarioLambda\obj\Debug\net8.0\ExercicioFuncionarioLambda.dll
+C:\Users\jbray\DEV\C#\ExercicioFuncionarioLambda\ExercicioFuncionarioLambda\obj\Debug\net8.0\refint\ExercicioFuncionarioLambda.dll
+C:\Users\jbray\DEV\C#\ExercicioFuncionarioLambda\ExercicioFuncionarioLambda\obj\Debug\net8.0\ExercicioFuncionarioLambda.pdb
+C:\Users\jbray\DEV\C#\ExercicioFuncionarioLambda\ExercicioFuncionarioLambda\obj\Debug\net8.0\ExercicioFuncionarioLambda.genruntimeconfig.cache
+C:\Users\jbray\DEV\C#\ExercicioFuncionarioLambda\ExercicioFuncionarioLambda\obj\Debug\net8.0\ref\ExercicioFuncionarioLambda.dll

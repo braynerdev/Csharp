@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jbray\\DEV\\C#\\ExercicioFuncionarioLambda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7F5CD7-3E47-45AF-97CF-2E6385B43157}|ExercicioFuncionarioLambda\\ExercicioFuncionarioLambda.csproj|c:\\users\\jbray\\dev\\c#\\exerciciofuncionariolambda\\exerciciofuncionariolambda\\entities\\funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7F5CD7-3E47-45AF-97CF-2E6385B43157}|ExercicioFuncionarioLambda\\ExercicioFuncionarioLambda.csproj|solutionrelative:exerciciofuncionariolambda\\entities\\funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7F5CD7-3E47-45AF-97CF-2E6385B43157}|ExercicioFuncionarioLambda\\ExercicioFuncionarioLambda.csproj|c:\\users\\jbray\\dev\\c#\\exerciciofuncionariolambda\\exerciciofuncionariolambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7F5CD7-3E47-45AF-97CF-2E6385B43157}|ExercicioFuncionarioLambda\\ExercicioFuncionarioLambda.csproj|solutionrelative:exerciciofuncionariolambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Funcionarios.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioFuncionarioLambda\\ExercicioFuncionarioLambda\\Entities\\Funcionarios.cs",
+              "RelativeDocumentMoniker": "ExercicioFuncionarioLambda\\Entities\\Funcionarios.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioFuncionarioLambda\\ExercicioFuncionarioLambda\\Entities\\Funcionarios.cs",
+              "RelativeToolTip": "ExercicioFuncionarioLambda\\Entities\\Funcionarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:44:24.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\C#\\ExercicioFuncionarioLambda\\ExercicioFuncionarioLambda\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioFuncionarioLambda\\Program.cs",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\C#\\ExercicioFuncionarioLambda\\ExercicioFuncionarioLambda\\Program.cs",
+              "RelativeToolTip": "ExercicioFuncionarioLambda\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:39:46.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

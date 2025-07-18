@@ -1,0 +1,15 @@
+C:\Users\jbray\DEV\C#\ExercicioConsultas\ExercicioConsultas\bin\Debug\net8.0\ExercicioConsultas.exe
+C:\Users\jbray\DEV\C#\ExercicioConsultas\ExercicioConsultas\bin\Debug\net8.0\ExercicioConsultas.deps.json
+C:\Users\jbray\DEV\C#\ExercicioConsultas\ExercicioConsultas\bin\Debug\net8.0\ExercicioConsultas.runtimeconfig.json
+C:\Users\jbray\DEV\C#\ExercicioConsultas\ExercicioConsultas\bin\Debug\net8.0\ExercicioConsultas.dll
+C:\Users\jbray\DEV\C#\ExercicioConsultas\ExercicioConsultas\bin\Debug\net8.0\ExercicioConsultas.pdb
+C:\Users\jbray\DEV\C#\ExercicioConsultas\ExercicioConsultas\obj\Debug\net8.0\ExercicioConsultas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbray\DEV\C#\ExercicioConsultas\ExercicioConsultas\obj\Debug\net8.0\ExercicioConsultas.AssemblyInfoInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioConsultas\ExercicioConsultas\obj\Debug\net8.0\ExercicioConsultas.AssemblyInfo.cs
+C:\Users\jbray\DEV\C#\ExercicioConsultas\ExercicioConsultas\obj\Debug\net8.0\ExercicioConsultas.csproj.CoreCompileInputs.cache
+C:\Users\jbray\DEV\C#\ExercicioConsultas\ExercicioConsultas\obj\Debug\net8.0\ExercicioConsultas.sourcelink.json
+C:\Users\jbray\DEV\C#\ExercicioConsultas\ExercicioConsultas\obj\Debug\net8.0\ExercicioConsultas.dll
+C:\Users\jbray\DEV\C#\ExercicioConsultas\ExercicioConsultas\obj\Debug\net8.0\refint\ExercicioConsultas.dll
+C:\Users\jbray\DEV\C#\ExercicioConsultas\ExercicioConsultas\obj\Debug\net8.0\ExercicioConsultas.pdb
+C:\Users\jbray\DEV\C#\ExercicioConsultas\ExercicioConsultas\obj\Debug\net8.0\ExercicioConsultas.genruntimeconfig.cache
+C:\Users\jbray\DEV\C#\ExercicioConsultas\ExercicioConsultas\obj\Debug\net8.0\ref\ExercicioConsultas.dll
