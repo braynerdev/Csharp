@@ -1,5 +1,6 @@
 ﻿using APICatalogo.Context;
 using APICatalogo.Models;
+using APICatalogo.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -37,16 +38,30 @@ namespace APICatalogo.Controllers
            
         }
 
-        [HttpGet("{id:int}", Name = "ObterCategoria")]
-        public ActionResult Get(int id)
+        [HttpGet("/ola")]
+        public ActionResult<string> GetOla(Iola Ola, [FromQuery] string nome)
+        {
+            return Ok(Ola.chamaOla(nome));
+        }
+
+        [HttpGet("{id:int:min(2)}", Name = "ObterCategoria")] //restri rota
+        public async Task<ActionResult> GetAsync([FromRoute] int id) //async e model bind
         {
             try
             {
-                var categoria =
+                var categoria = await
                 _context
                 .Categorias
                 .AsNoTracking()
-                .FirstOrDefault(c => c.CategoriaId == id);
+                .Where(c => c.CategoriaId == id)
+                .Select(c => new 
+                    {
+                        c.Nome,
+                        c.CategoriaId,
+                        c.ImagemUrl
+                    }
+                )
+                .FirstOrDefaultAsync();
 
                 if (categoria is null)
                 {

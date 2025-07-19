@@ -37,7 +37,7 @@
   },
   {
     "ContainingType": "APICatalogo.Controllers.CategoriaController",
-    "Method": "Get",
+    "Method": "GetAsync",
     "RelativePath": "Categoria/{id}",
     "HttpMethod": "GET",
     "IsController": true,
@@ -111,6 +111,32 @@
     "ReturnTypes": [
       {
         "Type": "System.Collections.Generic.IEnumerable\u00601[[APICatalogo.Models.Categorias, APICatalogo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APICatalogo.Controllers.CategoriaController",
+    "Method": "GetOla",
+    "RelativePath": "ola",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nome",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
         "MediaTypes": [
           "text/plain",
           "application/json",

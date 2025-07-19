@@ -1,6 +1,7 @@
 ﻿using System.Collections.ObjectModel;
 using System.ComponentModel.DataAnnotations;
 using System.Text.Json.Serialization;
+using APICatalogo.Validator;
 
 namespace APICatalogo.Models;
 public class Categorias
@@ -11,6 +12,8 @@ public class Categorias
 
     [Required]
     [StringLength(80)]
+
+    [ValidatorPrimeiraLetraMaiuscula]
     public string? Nome { get; set; }
 
     [Required]

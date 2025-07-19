@@ -12,7 +12,7 @@ public class Produtos
     [StringLength(80)]
     public string? Name { get; set; }
 
-    [Required]
+    [Required(ErrorMessage = "Descrição não aceita campo nulo!")]
     [StringLength(300)]
     public string? Descricao { get; set; }
 
